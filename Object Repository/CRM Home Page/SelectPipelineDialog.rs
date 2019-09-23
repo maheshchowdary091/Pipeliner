@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SelectPipelineDialog</name>
+   <tag></tag>
+   <elementGuidId>d24a62db-4483-4449-b865-26b80f5bff2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>class=&quot;mat-dialog-title&quot;</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>class=&quot;mat-dialog-title&quot;</value>
+   </webElementProperties>
+</WebElementEntity>

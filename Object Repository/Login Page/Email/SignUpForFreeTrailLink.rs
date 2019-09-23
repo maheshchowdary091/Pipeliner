@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SignUpForFreeTrailLink</name>
+   <tag></tag>
+   <elementGuidId>36691e8b-91b7-42c3-ba31-0dd756b5af09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href=&quot;https://www.pipelinersales.com/crm/free-trial&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href=&quot;https://www.pipelinersales.com/crm/free-trial&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

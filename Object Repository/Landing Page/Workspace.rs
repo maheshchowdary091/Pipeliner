@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Workspace</name>
+   <tag></tag>
+   <elementGuidId>5c0410df-400f-4183-968a-e44879e2320c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href=&quot;https://workspace.pipelinersales.com&quot;]//div[text()='Workspace']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href=&quot;https://workspace.pipelinersales.com&quot;]//div[text()='Workspace']</value>
+   </webElementProperties>
+</WebElementEntity>

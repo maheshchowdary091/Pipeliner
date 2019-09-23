@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CRM</name>
+   <tag></tag>
+   <elementGuidId>09714180-8075-42fa-be9c-d7664f988565</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href=&quot;https://crm.pipelinersales.com&quot;]//div[text()='CRM']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href=&quot;https://crm.pipelinersales.com&quot;]//div[text()='CRM']</value>
+   </webElementProperties>
+</WebElementEntity>

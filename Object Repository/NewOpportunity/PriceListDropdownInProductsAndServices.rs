@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PriceListDropdownInProductsAndServices</name>
+   <tag></tag>
+   <elementGuidId>54b147cd-924d-42fd-8536-f10083e3e29b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ppl-select[@class=&quot;price-list&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ppl-select[@class=&quot;price-list&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

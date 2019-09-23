@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case will check whether the validation error messages are shown when click Save button before entering data in then fields</description>
+   <name>Check Validations In New Opportunity Modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b8f443e-420e-4178-bef9-e2c7e3bd2358</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dilleswari.salugu@qualitlabs.com'</initValue>
+      <name>userName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'8u3QLK99fzege+hT9GHX8w=='</initValue>
+      <name>passWord</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://crm.pipelinersales.com/'</initValue>
+      <name>crmHomePageLink</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://accounts.pipelinersales.com/login'</initValue>
+      <name>loginPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>30</initValue>
+      <name>defaultWaitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>60</initValue>
+      <name>mediumWaitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>120</initValue>
+      <name>highWaitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>180</initValue>
+      <name>veryHighWaitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('closingDate') : '1/31/20', ('opportunityValue') : '20000', ('opportunityName') : 'Purple Inc.']</initValue>
+      <name>basicPipelineDetails</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
